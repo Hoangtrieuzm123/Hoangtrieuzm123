@@ -1,37 +1,50 @@
-### 👋 Hi, I’m @Hoangtrieuzm123
-![image](https://github.com/user-attachments/assets/cb63d889-c1cd-4369-bad6-e5f16c7a81de)
+## 📷 About Me
+- Hoàng Triều / Hoangtrieuzm123
+- Currently majoring in Software Engineering
+- Primary focus on C# and Java
+- Highly experienced in ASP.NET Core
+- Currently learning more about performance testing with Gatling
+- Feel free to reach out for help if it's within my ability
 
-### 🚀 Projects:
-| Tên Dự án                                           | Mô tả                                                                                     |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------|
-| **🏨 Ứng dụng quản lý khách sạn**                     | Dự án này cung cấp giải pháp quản lý cho các khách sạn, bao gồm đặt phòng, quản lý khách hàng và thanh toán.  |
-| **📝 Website Thi trắc nghiệm**                         | Một nền tảng trực tuyến cho phép người dùng thực hiện các bài kiểm tra trắc nghiệm với các câu hỏi và đáp án.   |
-| **📶 Ứng dụng Đo tốc độ mạng đơn giản**               | Dự án này đo độ trễ và tốc độ tải về/tải lên của mạng, cung cấp thông tin hữu ích về chất lượng kết nối Internet. |
+---
 
-### 🖥️ Programming Languages:
-- C/C++
-- C#
-- Java
-- HTML/CSS
+## 🛠 Skills and Tools
 
-### 📚 Frameworks:
-- **ASP.NET Core**
+### Programming Languages:
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
-### 🎓 Certifications:
-- Bằng Tiếng Anh B1
-- Đang học IELTS
+### Frameworks:
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
-### 🎶 Interests:
-- Đọc sách
-- Nghe nhạc
-- Tìm hiểu những công nghệ mới đang phát triển
-- Thích ChatGPT
+### Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-### 📞 Contact Information:
+---
+
+## 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoangtrieuzm123&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Hoangtrieuzm123)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://facebook.com/ht.biin1809)
 - **Mail:** [trieunguyenvohoangtrieu@gmail.com](mailto:trieunguyenvohoangtrieu@gmail.com)
 - **Zalo:** 0901752349
-- **Facebook:** [ht.biin1809](https://www.facebook.com/ht.biin1809/)
-
+------------------------------------------------
 <!---
 Hoangtrieuzm123/Hoangtrieuzm123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
