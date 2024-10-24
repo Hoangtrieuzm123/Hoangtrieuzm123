@@ -8,6 +8,14 @@
 
 ---
 
+
+| **Project Name** | **Description** | **Technologies Used** |
+| --- | --- | --- |
+| [Online Quiz Website](https://github.com/AzureSerenity/WebsiteThiTracNghiem) | A platform for online English quizzes, allowing users to practice and review knowledge. | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) |
+| [Hotel Management System](https://github.com/Hoangtrieuzm123/HotelManagement) | An application for managing hotel bookings, customers, and payments. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) |
+
+---
+
 ## 🛠 Skills and Tools
 
 ### Programming Languages:
